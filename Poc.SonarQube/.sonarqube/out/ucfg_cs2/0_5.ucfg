@@ -1,20 +1,20 @@
 
-0Poc.SonarQube.Program.ReturnUpperString1(string)Z
-PC:\Dev\PiotrPlayground\GitHub\Poc.CodeReview.ConsoleApp\Poc.SonarQube\Program.cs" "(/"0*‚
+0Poc.SonarQube.Program.ReturnUpperString2(string)Z
+PC:\Dev\PiotrPlayground\GitHub\Poc.CodeReview.ConsoleApp\Poc.SonarQube\Program.cs& &(/"0*‚
 0Ž
 ‹
 Z
-PC:\Dev\PiotrPlayground\GitHub\Poc.CodeReview.ConsoleApp\Poc.SonarQube\Program.cs$ $(
+PC:\Dev\PiotrPlayground\GitHub\Poc.CodeReview.ConsoleApp\Poc.SonarQube\Program.cs( ((
 %0string"string.ToUpper()*
 
 astring"l
 Z
-PC:\Dev\PiotrPlayground\GitHub\Poc.CodeReview.ConsoleApp\Poc.SonarQube\Program.cs$ $(
+PC:\Dev\PiotrPlayground\GitHub\Poc.CodeReview.ConsoleApp\Poc.SonarQube\Program.cs( ((
 
 %0string*v
 1"q
 Z
-PC:\Dev\PiotrPlayground\GitHub\Poc.CodeReview.ConsoleApp\Poc.SonarQube\Program.cs% %(	
+PC:\Dev\PiotrPlayground\GitHub\Poc.CodeReview.ConsoleApp\Poc.SonarQube\Program.cs) )(	
 implicit return:
 astringB"
 Poc.SonarQube.Program
