@@ -9,7 +9,13 @@ namespace Poc.SonarQube
     {
         static void Main(string[] args)
         {
+            string a;
+            int b;
+            var c = true;
+            if (c == true)
+            {
 
+            }
             Console.WriteLine("Hello World!");
         }
 
