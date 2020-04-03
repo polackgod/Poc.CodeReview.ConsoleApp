@@ -1,0 +1,20 @@
+
+/Poc.SonarQube.Program.ReturnUpperString(string)Z
+PC:\Dev\PiotrPlayground\GitHub\Poc.CodeReview.ConsoleApp\Poc.SonarQube\Program.cs (."0*‚
+0Ž
+‹
+Z
+PC:\Dev\PiotrPlayground\GitHub\Poc.CodeReview.ConsoleApp\Poc.SonarQube\Program.cs   (
+%0string"string.ToUpper()*
+
+astring"l
+Z
+PC:\Dev\PiotrPlayground\GitHub\Poc.CodeReview.ConsoleApp\Poc.SonarQube\Program.cs   (
+
+%0string*v
+1"q
+Z
+PC:\Dev\PiotrPlayground\GitHub\Poc.CodeReview.ConsoleApp\Poc.SonarQube\Program.cs! !(	
+implicit return:
+astringB"
+Poc.SonarQube.Program
