@@ -3,5 +3,5 @@ projectKey=polackgod_Poc.CodeReview.ConsoleApp
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.6465
 dashboardUrl=https://sonarcloud.io/dashboard?id=polackgod_Poc.CodeReview.ConsoleApp
-ceTaskId=AXFBCuLUbLorBaO-ZZWJ
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXFBCuLUbLorBaO-ZZWJ
+ceTaskId=AXFBDhVUEt6t0b1jW2Z7
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXFBDhVUEt6t0b1jW2Z7
