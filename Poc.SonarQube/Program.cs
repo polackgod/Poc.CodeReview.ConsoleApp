@@ -55,5 +55,29 @@ namespace Poc.SonarQube
         {
             return a.ToUpper();
         }
+        public static string ReturnUpperString11(string a)
+        {
+            return a.ToUpper();
+        }
+        public static string ReturnUpperString21(string a)
+        {
+            return a.ToUpper();
+        }
+        public static string ReturnUpperString31(string a)
+        {
+            return a.ToUpper();
+        }
+        public static string ReturnUpperString41(string a)
+        {
+            return a.ToUpper();
+        }
+        public static string ReturnUpperString51(string a)
+        {
+            return a.ToUpper();
+        }
+        public static string ReturnUpperString61(string a)
+        {
+            return a.ToUpper();
+        }
     }
 }
